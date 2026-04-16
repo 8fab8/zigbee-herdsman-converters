@@ -243,7 +243,7 @@ export const definitions: DefinitionWithExtend[] = [
         },
     },
     {
-        fingerprint: tuya.fingerprint("TS0601", ["_TZE204_a9ojznj8", "_TZE284_a9ojznj8"]),
+        fingerprint: tuya.fingerprint("TS0601", ["_TZE204_a9ojznj8", "_TZE284_a9ojznj8","_TZE204_4fblxpma"]),
         model: "NAS-WV03B2",
         vendor: "NEO",
         description: "Smart sprinkler timer",
